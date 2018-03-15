@@ -1,0 +1,16 @@
+# Advanced Search Exercises
+## 4.1: Local Search Algorithms and Optimization Problems (4 exercises, 1 labelled)
+### (id=4.0 section=4.1)
+
+  1.  Harsh
+  2.  Harsh
+  3.  Harsh
+  4.  Harsh
+    - Kumar
+    - Verma
+    - Jarwal
+
+  - Harsh
+  - Harsh
+  - Harsh
+  - Harsh

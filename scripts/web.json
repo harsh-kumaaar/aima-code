@@ -1,0 +1,11 @@
+{
+    "website-name": "AIMA EBOOK",
+    "starting-url": "#/home",
+    "navigation":[
+        {
+            "name":"Home",
+            "routeName":"#/home",
+            "url":"/view/home.md"
+        }
+    ]
+}

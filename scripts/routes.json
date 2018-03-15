@@ -1,0 +1,244 @@
+[
+    {
+        "name" : "Home",
+        "routeName": "/home",
+        "url"  : "/views/home.md"
+    },
+    {
+        "name" : "Contents",
+        "routeName": "/contents",
+        "url"  : "/views/contents.md"
+    },
+    {
+        "name" : "Test exercise",
+        "chapter" : 1,
+        "section": 1,
+        "type":"exercise",
+        "routeName": "/exercise/advanced-search-exercises",
+        "url"  : "/markdowns/advanced-search-exercises.md"
+    },
+    {
+        "name" : "Test exercise",
+        "chapter" : 1,
+        "section": 1,
+        "type":"exercise",
+        "routeName": "/exercise/advanced-planning-exercises",
+        "url"  : "/markdowns/advanced-planning-exercises.md"
+    },
+    {
+        "name" : "Test exercise",
+        "chapter" : 1,
+        "section": 1,
+        "type":"exercise",
+        "routeName": "/exercise/advanced-search-exercises",
+        "url"  : "/markdowns/advanced-search-exercises.md"
+    },
+    {
+        "name" : "Test exercise",
+        "chapter" : 1,
+        "section": 1,
+        "type":"exercise",
+        "routeName": "/exercise/bayes-net-exercises",
+        "url"  : "/markdowns/bayes-net-exercises.md"
+    },
+    {
+        "name" : "Test exercise",
+        "chapter" : 1,
+        "section": 1,
+        "type":"exercise",
+        "routeName": "/exercise/agents-exercises",
+        "url"  : "/markdowns/agents-exercises.md"
+    },
+    {
+        "name" : "Test exercise",
+        "chapter" : 1,
+        "section": 1,
+        "type":"exercise",
+        "routeName": "/exercise/bayes-learning-exercises",
+        "url"  : "/markdowns/bayes-learning-exercises.md"
+    },
+    {
+        "name" : "Test exercise",
+        "chapter" : 1,
+        "section": 1,
+        "type":"exercise",
+        "routeName": "/exercise/complex-decisions-exercises",
+        "url"  : "/markdowns/complex-decisions-exercises.md"
+    },
+    {
+        "name" : "Test exercise",
+        "chapter" : 1,
+        "section": 1,
+        "type":"exercise",
+        "routeName": "/exercise/concept-learning-exercises",
+        "url"  : "/markdowns/concept-learning-exercises.md"
+    },
+    {
+        "name" : "Test exercise",
+        "chapter" : 1,
+        "section": 1,
+        "type":"exercise",
+        "routeName": "/exercise/csp-exercises",
+        "url"  : "/markdowns/csp-exercises.md"
+    },
+    {
+        "name" : "Test exercise",
+        "chapter" : 1,
+        "section": 1,
+        "type":"exercise",
+        "routeName": "/exercise/dbn-exercises",
+        "url"  : "/markdowns/dbn-exercises.md"
+    },
+    {
+        "name" : "Test exercise",
+        "chapter" : 1,
+        "section": 1,
+        "type":"exercise",
+        "routeName": "/exercise/decision-theory-exercises",
+        "url"  : "/markdowns/decision-theory-exercises.md"
+    },
+    {
+        "name" : "Test exercise",
+        "chapter" : 1,
+        "section": 1,
+        "type":"exercise",
+        "routeName": "/exercise/fol-exercises",
+        "url"  : "/markdowns/fol-exercises.md"
+    },
+    {
+        "name" : "Test exercise",
+        "chapter" : 1,
+        "section": 1,
+        "type":"exercise",
+        "routeName": "/exercise/future-exercises",
+        "url"  : "/markdowns/future-exercises.md"
+    },
+    {
+        "name" : "Test exercise",
+        "chapter" : 1,
+        "section": 1,
+        "type":"exercise",
+        "routeName": "/exercise/game-playing-exercises",
+        "url"  : "/markdowns/game-playing-exercises.md"
+    },
+    {
+        "name" : "Test exercise",
+        "chapter" : 1,
+        "section": 1,
+        "type":"exercise",
+        "routeName": "/exercise/ilp-exercises",
+        "url"  : "/markdowns/ilp-exercises.md"
+    },
+    {
+        "name" : "Test exercise",
+        "chapter" : 1,
+        "section": 1,
+        "type":"exercise",
+        "routeName": "/exercise/intro-exercises",
+        "url"  : "/markdowns/intro-exercises.md"
+    },
+    {
+        "name" : "Test exercise",
+        "chapter" : 1,
+        "section": 1,
+        "type":"exercise",
+        "routeName": "/exercise/knowledge-logic-exercises",
+        "url"  : "/markdowns/knowledge-logic-exercises.md"
+    },
+    {
+        "name" : "Test exercise",
+        "chapter" : 1,
+        "section": 1,
+        "type":"exercise",
+        "routeName": "/exercise/kr-exercises",
+        "url"  : "/markdowns/kr-exercises.md"
+    },
+    {
+        "name" : "Test exercise",
+        "chapter" : 1,
+        "section": 1,
+        "type":"exercise",
+        "routeName": "/exercise/logical-inference-exercises",
+        "url"  : "/markdowns/logical-inference-exercises.md"
+    },
+    {
+        "name" : "Test exercise",
+        "chapter" : 1,
+        "section": 1,
+        "type":"exercise",
+        "routeName": "/exercise/nlp-communication-exercises",
+        "url"  : "/markdowns/nlp-communication-exercises.md"
+    },
+    {
+        "name" : "Test exercise",
+        "chapter" : 1,
+        "section": 1,
+        "type":"exercise",
+        "routeName": "/exercise/npl-english-exercises",
+        "url"  : "/markdowns/npl-english-exercises.md"
+    },
+    {
+        "name" : "Test exercise",
+        "chapter" : 1,
+        "section": 1,
+        "type":"exercise",
+        "routeName": "/exercise/perception-exercises",
+        "url"  : "/markdowns/perception-exercises.md"
+    },
+    {
+        "name" : "Test exercise",
+        "chapter" : 1,
+        "section": 1,
+        "type":"exercise",
+        "routeName": "/exercise/advanced-search-exercises",
+        "url"  : "/markdowns/advanced-search-exercises.md"
+    },
+    {
+        "name" : "Test exercise",
+        "chapter" : 1,
+        "section": 1,
+        "type":"exercise",
+        "routeName": "/exercise/philosophy-exercises",
+        "url"  : "/markdowns/philosophy-exercises.md"
+    },
+    {
+        "name" : "Test exercise",
+        "chapter" : 1,
+        "section": 1,
+        "type":"exercise",
+        "routeName": "/exercise/planning-exercises",
+        "url"  : "/markdowns/planning-exercises.md"
+    },
+    {
+        "name" : "Test exercise",
+        "chapter" : 1,
+        "section": 1,
+        "type":"exercise",
+        "routeName": "/exercise/probability-exercises",
+        "url"  : "/markdowns/probability-exercises.md"
+    },
+    {
+        "name" : "Test exercise",
+        "chapter" : 1,
+        "section": 1,
+        "type":"exercise",
+        "routeName": "/exercise/reinforcement-learning-exercises",
+        "url"  : "/markdowns/reinforcement-learning-exercises.md"
+    },
+    {
+        "name" : "Test exercise",
+        "chapter" : 1,
+        "section": 1,
+        "type":"exercise",
+        "routeName": "/exercise/robotics-exercises",
+        "url"  : "/markdowns/robotics-exercises.md"
+    },
+    {
+        "name" : "Test exercise",
+        "chapter" : 1,
+        "section": 1,
+        "type":"exercise",
+        "routeName": "/exercise/search-exercises",
+        "url"  : "/markdowns/search-exercises.md"
+    }
+]
