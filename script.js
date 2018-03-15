@@ -1,6 +1,9 @@
 console.log('Script Started');
 
-const baseURL = window.location.origin;
+const baseURL = window.location.origin+'/';
+if(window.location.patname.length > 0){
+    baseURL += window.location.patname;
+}
 
 let testMarkdown = ''; // it will containe Markdown
 let indent = 0; // for tracking indent
@@ -15,7 +18,7 @@ class Router{
     constructor(containerID){
         this.containerID = containerID;
         this.hashURLMap = new Map();
-        fetch(baseURL+'./scripts/routes.json').then(res => res.json().then(jsonObj => { 
+        fetch(baseURL+'/scripts/routes.json').then(res => res.json().then(jsonObj => { 
             this.routes = jsonObj;
             this.routes.forEach(route => {
                 this.hashURLMap.set(route.url,route);
