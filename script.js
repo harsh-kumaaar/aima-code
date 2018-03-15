@@ -15,7 +15,7 @@ class Router{
     constructor(containerID){
         this.containerID = containerID;
         this.hashURLMap = new Map();
-        fetch(baseURL+'/scripts/routes.json').then(res => res.json().then(jsonObj => { 
+        fetch(baseURL+'./scripts/routes.json').then(res => res.json().then(jsonObj => { 
             this.routes = jsonObj;
             this.routes.forEach(route => {
                 this.hashURLMap.set(route.url,route);
