@@ -132,7 +132,7 @@ function parseLine(line){
             anchorText = anchorText.replace(/\.eps/,".jpg");
             let linkText = match.match(/!\[(.*)\]\((.*)\)/)[2];
             linkText = linkText.replace(/\.eps/,".jpg");
-            line = line.replace(match,`<img class="img" src="${linkText}" alt="${anchorText}"></img>`);
+            line = line.replace(match,`<img class="img" src="${baseURL+linkText}" alt="${anchorText}"></img>`);
         });
     }
 
