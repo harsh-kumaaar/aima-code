@@ -418,7 +418,7 @@ window.onload = (e) => {
     },30);
     setTimeout(()=>{
         window.location.hash = "#/home";
-    },100);
+    },3000);
 }
 
 
