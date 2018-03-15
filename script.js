@@ -1,10 +1,6 @@
 console.log('Script Started');
 
-const baseURL = window.location.origin+'/';
-if(window.location.patname.length > 0){
-    baseURL += window.location.patname;
-}
-
+const baseURL = 'https://jarwalharsh.github.com/aima-code';
 let testMarkdown = ''; // it will containe Markdown
 let indent = 0; // for tracking indent
 let lastIndent = 0; // preseve last indent
