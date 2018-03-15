@@ -1,6 +1,6 @@
 console.log('Script Started');
 
-const baseURL = 'https://jarwalharsh.github.io/aima-code/';
+const baseURL = 'https://jarwalharsh.github.io/aima-code';
 let testMarkdown = ''; // it will containe Markdown
 let indent = 0; // for tracking indent
 let lastIndent = 0; // preseve last indent
@@ -14,7 +14,7 @@ class Router{
     constructor(containerID){
         this.containerID = containerID;
         this.hashURLMap = new Map();
-        fetch(baseURL+'scripts/routes.json').then(res => res.json().then(jsonObj => { 
+        fetch(baseURL+'/scripts/routes.json').then(res => res.json().then(jsonObj => { 
             this.routes = jsonObj;
             this.routes.forEach(route => {
                 this.hashURLMap.set(route.url,route);
@@ -62,7 +62,7 @@ class Router{
         router.routes.forEach(route => {
             if(route.routeName == hashURL){
                 let response; 
-                fetch(route.url)
+                fetch(baseURL+route.url)
                 .then(markdown => {
                     if(markdown.status == 404){
                         console.log("URL not found");
